@@ -61,4 +61,3 @@ List of users
   - [ ] total score
     *calculated by adding questions asked and answered*
 
-##### 
