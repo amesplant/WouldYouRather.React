@@ -6,11 +6,11 @@ Before I start coding, I am identifying all of the components that I think that 
 
 #### Login Page
 
-![login](https://github.com/amesplant/WouldYouRather.React/blob/master/docs/layout/-login.jpg)
+![login](./layout/-login.jpg)
 
 #### Sign Up (modal)
 
-![image-20200322111823515](https://github.com/amesplant/WouldYouRather.React/blob/master/docs/layout/signup.png)
+![image-20200322111823515](./layout/signup.png)
 
 ------
 
@@ -30,7 +30,7 @@ Before I start coding, I am identifying all of the components that I think that 
 
 #### Question Page
 
-![image-20200322112516657](./layout/image-20200322112516657.png)
+![image-20200322120949563](./layout/question_page.png)
 
 ##### ask question component
 
@@ -60,7 +60,7 @@ Before I start coding, I am identifying all of the components that I think that 
 
 #### User Detail Page
 
-![image-20200322114025989](./layout/layout\user.png)
+![image-20200322114025989](./layout/user.png)
 
 #### User Profile (modal)
 
